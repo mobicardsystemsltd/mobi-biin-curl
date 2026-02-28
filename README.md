@@ -1,5 +1,6 @@
-# BIIN LOOKUP API
-## MobiBiin by MobiCard - Curl
+# BIIN / BIN Lookup API
+## MobiBiin by MobiCard
+### cURL
 
 Use this API to retrieve detailed card issuer information using the Bank Identification Number (BIN/IIN). Identify card schemes, issuer banks, card types, and geographical information for risk management, fraud prevention, and payment processing optimization.
 
